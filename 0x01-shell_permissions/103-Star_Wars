@@ -1,0 +1,2 @@
+#!/bin/bash
+cat starwars_ascii_art.txt | cmatrix
